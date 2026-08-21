@@ -1,0 +1,6 @@
+{
+  "name": "Sistem Manajemen Inventaris & Pelacakan Stok",
+  "description": "Aplikasi manajemen inventaris lengkap dengan pelacakan stok real-time, dashboard analitik interaktif, mutasi barang, peringatan stok kritis, dan generator laporan otomatis bulanan.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
